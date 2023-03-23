@@ -1,3 +1,7 @@
+'''
+reverse String
+'''
+
 def reverseStringSlicing(string:str):
     print(f'{string[::-1]}') 
 
